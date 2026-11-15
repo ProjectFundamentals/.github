@@ -1,6 +1,7 @@
+
 <div align="center">
 
-# Project Fundamentals
+<img src="../logo.png" alt="Project Fundamentals" width="420">
 
 ### IDEAS · TECHNOLOGY · OPEN SOURCE · AI
 
