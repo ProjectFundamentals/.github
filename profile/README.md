@@ -86,8 +86,6 @@ We encourage experimentation, continuous improvement and responsible innovation.
 
 # Make it real.
 
-### Project Fundamentals
-
 </div>
 
 
