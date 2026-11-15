@@ -2,7 +2,7 @@
 
 <img src="../Logo.png" alt="Project Fundamentals" width="420">
 
-<h3>IDEAS · TECHNOLOGY · OPEN SOURCE · AIi</h3>
+<h3>IDEAS · TECHNOLOGY · OPEN SOURCE · AI</h3>
 
 <strong>Industrial Automation · PLC/SCADA · IT/OT Integration · Software Development</strong>
 
