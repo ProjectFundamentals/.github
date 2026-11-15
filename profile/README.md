@@ -1,13 +1,15 @@
-
 <div align="center">
 
-<img src="../logo.png" alt="Project Fundamentals" width="420">
+<img src="../logo.png" alt="Project Fundamentals" width="360">
 
-### IDEAS · TECHNOLOGY · OPEN SOURCE · AI
+<h3>IDEAS · TECHNOLOGY · OPEN SOURCE · AI</h3>
 
-**Industrial Automation · PLC/SCADA · IT/OT Integration · Software Development**
+<strong>Industrial Automation · PLC/SCADA · IT/OT Integration · Software Development</strong>
 
-[Website](https://projectfundamentals.org) · [Contact](mailto:contact@projectfundamentals.org)
+<p>
+<a href="https://projectfundamentals.org">Website</a> ·
+<a href="mailto:contact@projectfundamentals.org">Contact</a>
+</p>
 
 </div>
 
