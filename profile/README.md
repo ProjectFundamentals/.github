@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Logo.png" alt="Project Fundamentals" width="420">
+<img src="https://raw.githubusercontent.com/ProjectFundamentals/.github/main/profile/Logo.png" alt="Project Fundamentals" width="420">
 
 <h3>IDEAS · TECHNOLOGY · OPEN SOURCE · AI</h3>
 
